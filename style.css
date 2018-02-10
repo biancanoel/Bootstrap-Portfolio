@@ -1,0 +1,111 @@
+* {
+    font-family: 'lato', 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+body {
+    
+}
+
+.container {
+    background-image: url("images/circles-dark.png");
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+.ftr {
+    text-align: center;
+    background: rgb(101, 100, 100);
+    color: white;
+    height: 25px;
+}
+
+
+/* NAVIGATION BAR */
+
+.navbar-default {
+    background-color: white;
+    background: #4aaaa5;
+}
+
+.navbar-default .navbar-text {
+    color: white;
+    border-radius: 5px;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: white;
+}
+
+.connect-image {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+/* ABOUT ME */
+
+.about-box, 
+.connect-box {
+    border: solid 2px #838383;
+    margin: 10px; 
+    background: white;
+}
+.bianca-img {
+    margin-bottom: 20px;
+}
+
+h3 {
+    text-align: center;
+}
+
+/* CONTACT */
+.submit {
+    background: #4aaaa5;
+    color: white;
+}
+
+
+
+
+/* PORTFOLIO */ 
+span {
+    position: absolute;
+    background: #4aaaa5;
+    color: white;
+    text-align: center;
+    font-size: 125%;
+    padding-top: 5px;
+    height: 35px;
+    width: 250px;
+    top: 125px;
+    right: 122px;
+}
+
+.col-md-6 {
+    position: relative;
+    margin-top: 5%;
+}
+
+
+
+span{
+    position: absolute;
+    top: 130px;
+    background: #4aaaa5;
+    left: 15px;
+    height: 35px;
+}
+
+    
+   
+
+
+
+
+
+
+
+
+
